@@ -1,5 +1,9 @@
 # ECE444-F2023-Lab5
 
+## Link to Test Case
+
+Added a test case to verify that there is a connection to access the User_Table in the database: https://github.com/ECE444-2023Fall/project-1-web-application-design-group19-webcrafters/blob/4d620b99ace48da92c0346786b68fdb59d5fb4c3/tests/betula_test.py#L174C1-L187C1
+
 ## What are the pros and cons of TDD?
 
 ### Pros
